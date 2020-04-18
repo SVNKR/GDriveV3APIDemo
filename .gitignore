@@ -1,0 +1,10 @@
+/tokens/StoredCredential
+/src/main/resources/credentials.json
+/build/
+/.idea/
+/.gradle/
+/gradle/
+/photos/
+
+/gradlew
+/gradlew.bat
